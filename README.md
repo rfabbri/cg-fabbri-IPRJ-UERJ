@@ -24,9 +24,9 @@ criterio detalhado abaixo.
 ## Aulas Teoricas
 
 ### Livro-texto
-Folley & Van Dam 3a. Edicao (Capa é do filme Ratatouille)
-Real time 3D Graphics (recente)
-Videos e slides isolados conforme descrito para cada aula/tarefa abaixo
+- Folley & Van Dam 3a. Edicao (Capa é do filme Ratatouille)
+- Real time 3D Graphics (recente)
+- Videos e slides isolados conforme descrito para cada aula/tarefa abaixo
 
 
 - Aula 0 e Aula 1 - ministradas junto com tarefa0 e tarefa1 abaixo
